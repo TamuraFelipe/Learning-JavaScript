@@ -1,7 +1,7 @@
 <h2>Aprendendo Javascript</h2>
 
 <div align="center">
-  <img width="600" src="js-logo"/>
+  <img width="200" src="https://i.imgur.com/ORh3AO0.png"/>
 </div>
   
 <h2>Descrição</h2>
